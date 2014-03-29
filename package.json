@@ -1,0 +1,30 @@
+{
+  "name": "reddit-node-api",
+  "version": "0.0.1",
+  "author": "PSeitz <pascal.seitz@gmail.com>",
+  "description": "A reddit api for nodejs",
+  "main": "./lib/api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PSeitz/reddit-api-node.git"
+  },
+  "keywords": [
+    "api",
+    "reddit",
+    "node",
+    "http",
+    "login"
+  ],
+  "dependencies" : {
+  },
+  "bundledDependencies": [
+
+  ],
+  "devDependencies": {
+    "mocha"    :  "1.18.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
